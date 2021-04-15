@@ -1,10 +1,10 @@
-# Title / Repository Name
+# Open Source Software Engineering - Assignment 4
 
 ## About / Synopsis
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
+* Contributing to Open Source Software
+* Project status: In Progress
+* BITS WILP Students support
 
 See real examples:
 
